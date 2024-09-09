@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi Everyone 👋
+
+![1677680845380](https://github.com/user-attachments/assets/0719cc1b-d547-4fc4-8ef7-4af51a821d0d)
+
 
 <!--
 **Siobhan-ONeill/Siobhan-ONeill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Siobhán and I'm a researcher in University College Cork (UCC). I'm a psychologist with a keen interest in all things computer science and I'm currently completing a Professional Diploma in AI for Computer Vision from the University of Limerick. 
